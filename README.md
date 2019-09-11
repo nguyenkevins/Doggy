@@ -1,2 +1,2 @@
-# Doggy
- Jump over obstacles on an endless path as a Dog!
+# Doggy (iOS/Android/Desktop/HTML5)
+
