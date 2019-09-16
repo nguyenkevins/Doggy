@@ -11,7 +11,6 @@ Java IDE (preferably Android Studio since it easily deals with the Gradle build 
 
 ## Built With
 LibGDX - Java Cross-Platform Development
-
 Gradle - Dependency Management
 
 ## License
