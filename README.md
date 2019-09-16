@@ -1,4 +1,7 @@
 # Doggy (iOS/Android/Desktop/HTML5)
+
+### Currently in-progress / 85% Completion
+
 ## Summary
 This game's mechanic is almost just like the famous Chrome offline dinosaur game. The goal of the game is to jump over obstacles just by tapping. It sounds easy, but timing plays a huge role into the gameplay.
 
