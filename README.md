@@ -1,5 +1,7 @@
 # Doggy (iOS/Android/Desktop/HTML5)
 
+![Demo1](https://github.com/nguyenkevins/Doggy/blob/master/android/assets/Demo1.jpg)
+
 ### Currently in-progress / 85% Completion
 
 ## Summary
@@ -19,9 +21,4 @@ This project utilizes the low level and open source development framework called
 ## License
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE.md file for details.
 
-## Acknowledgments
-* David Nixon - Taught me CSS143, which contains content such as Data Structure and File IO.
-* LibGDX - Providing a free, low level, and open source development framework.
-* Chrome Offline Dinosaur Game - Inspiration from the simple, yet addicting game mechanic.
 
-![Demo1](https://github.com/nguyenkevins/Doggy/blob/master/android/assets/Demo1.jpg)
